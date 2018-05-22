@@ -1,1 +1,24 @@
-# Add any directories, files, or patterns you don't want to be tracked by version control
+# все что не относится к сборке и может быть сгенерировано клиентом
+asm/
+blueprints/
+crash-reports/
+dumps/
+fonts/
+journeymap/
+logs/
+resourcepacks/
+saves/
+shaderpacks/
+/GregTech.cfg
+/GregTech.lang
+/minetweaker.log
+/options.txt
+/optionsof.txt
+/settings.rtg
+/TimeUsage.txt
+/usercache.json
+/usernamecache.json
+/mods/1.7.10/
+/mods/carpentersblocks/
+/mods/ic2/
+/mods/railcraft/
