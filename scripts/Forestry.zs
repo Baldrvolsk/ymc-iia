@@ -107,7 +107,6 @@ var wrench = <ore:craftingToolWrench>;
 var PortableCell = <appliedenergistics2:item.ToolPortableCell>;
 var beeAl = <Forestry:beealyzer>;
 var treeAl = <Forestry:treealyzer>;
-var flutterAl = <Forestry:flutterlyzer>;
 
 var alvBlock = <Forestry:alveary>;
 var alvSwarmer = <Forestry:alveary:2>;
@@ -404,14 +403,6 @@ Carpenter.addRecipe(treeAl, [
  [<ore:circuitAdvanced>, <ore:circuitData>, <ore:circuitAdvanced>],
  [<ore:plateAluminium>, plateSilicon, <ore:plateAluminium>]],
  <liquid:molten.solderingalloy> * 288, 120, <minecraft:sapling>);
-
-//Flutterlyzer
-Carpenter.removeRecipe(flutterAl);
-Carpenter.addRecipe(flutterAl, [
- [<ore:plateGlass>, <gregtech:gt.metaitem.01:32740>, <ore:plateGlass>],
- [<ore:circuitAdvanced>, <ore:circuitData>, <ore:circuitAdvanced>],
- [<ore:plateAluminium>, plateSilicon, <ore:plateAluminium>]],
- <liquid:molten.solderingalloy> * 288, 120, <Forestry:butterflyGE>);
 
 //Mixer.addRecipe(output, liquidOutput, [input1, input2, input3, input4], liquidInput, durationTicks, euPerTick);
 recipes.remove(compost);
