@@ -39,6 +39,7 @@ shaderpacks/
 /config/MapWriter.cfg
 /config/MapWriterBlockColourOverrides.txt
 /config/MapWriterBlockColours.txt
+/config/Neat.cfg
 /config/neiintegration.cfg
 /config/Opis.cfg
 /config/splash.properties
