@@ -22,11 +22,12 @@ shaderpacks/
 /mods/carpentersblocks/
 /mods/ic2/
 /mods/railcraft/
-/mods/fastcraft-1.25.jar
-/mods/IC2NeiPlugin-1.1.0.jar
-/mods/InGameInfoXML-2.8.1.82.jar
-/mods/journeymap-1.7.10-5.1.4p2-unlimited.jar
-/mods/Opis-1.2.5.jar
+/mods/fastcraft*
+/mods/IC2NeiPlugin*
+/mods/InGameInfoXML*
+/mods/journeymap*
+/mods/Neat*
+/mods/Opis*
 /config/UniqueNames.txt
 /config/fastcraft.ini
 /config/igi.xml
