@@ -30,6 +30,8 @@ shaderpacks/
 /mods/journeymap*
 /mods/Neat*
 /mods/Opis*
+/mods/MapWriter*
+/mods/mapwriter*
 /config/UniqueNames.txt
 /config/fastcraft.ini
 /config/IC2.ini
