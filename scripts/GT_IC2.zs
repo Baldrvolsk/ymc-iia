@@ -813,8 +813,6 @@ NEI.hide(<IC2:itemBatChargeAdv:1>.withTag({charge: 400000.0}));
 NEI.hide(<IC2:itemBatChargeCrystal:1>.withTag({charge: 4000000.0}));
 NEI.hide(<IC2:itemBatChargeLamaCrystal:1>.withTag({charge: 4.0E7}));
 NEI.hide(<IC2:itemBatChargeRE:1>.withTag({charge: 40000.0}));
-NEI.hide(<IC2:itemBatCrystal:1>.withTag({charge: 1000000.0}));
-NEI.hide(<IC2:itemBatLamaCrystal:1>.withTag({charge: 1.0E7}));
 NEI.hide(<IC2:itemBatRE:1>.withTag({charge: 10000.0}));
 NEI.hide(<IC2:itemNightvisionGoggles:1>.withTag({charge: 200000.0}));
 NEI.hide(<IC2:itemToolHoe:1>.withTag({charge: 10000.0}));
